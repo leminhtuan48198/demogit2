@@ -1,4 +1,4 @@
 package model;
 
-public class Hantuan {
+public class  Hantuan {
 }
